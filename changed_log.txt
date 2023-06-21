@@ -1,5 +1,8 @@
-====================
-[Date]   :
-[Auth]   :
-[File]   :
-[Purpose]:
+========================================
+
+[Date]  : 2023.06.22
+[Auth]  : handsomebomb
+[File]  : "LinkedList.c"
+[Action]: Add LinkedList.c
+
+========================================
