@@ -1,8 +1,47 @@
-========================================
+================================================================================
+
+[Date]  : 2024.08.06
+[Auth]  : handsomebomb
+[File]  : [2_Add_Two_Numbers.c] ~ [2976_Minimum_Cost_to_Convert_String_I.c]
+          totally 39 files
+[Action]: Add leetcode medium c files (2, 34, 62, 86, 92, 97, 102, 105, 114,
+                                       122, 128, 199, 236, 237, 240, 307, 376,
+                                       462, 473, 576, 695, 792, 890, 912, 916,
+                                       1105, 1110, 1190, 1334, 1395, 1465, 1605,
+                                       1653, 1696, 2096, 2134, 2191, 2196, 2976)
+
+================================================================================
+
+[Date]  : 2024.08.06
+[Auth]  : handsomebomb
+[File]  : [135_Candy.c] [1074_Number_of_Submatrices_That_Sum_to_Target.cpp]
+          [629_K_Inverse_Pairs_Array.c] [1473_Paint_House_III.c]
+          [315_Count_of_Smaller_Numbers_After_Self.c] [2751_Robot_Collisions.c]
+[Action]: Add leetcode hard c files (135, 315, 629, 1074, 1473, 2751)
+
+================================================================================
+
+[Date]  : 2024.08.06
+[Auth]  : handsomebomb
+[File]  : [13_Roman_to_Integer.c] ~ [3005_Count_Elements_With_Maximum_Frequency.c]
+          totally 28 files
+[Action]: Add leetcode easy c files (13, 21, 104, 108, 118, 136, 169, 171, 191,
+                                     206, 217, 242, 268, 283, 344, 387, 412,
+                                     509, 746, 1380, 1598, 1636, 1710, 1791,
+                                     2418, 2540, 2678, 3005)
+
+================================================================================
+
+[Date]  : 2024.08.06
+[Auth]  : handsomebomb
+[File]  : [queue.c] [stack.c] [traversal.c] [sorting.c] [bit_ops.c]
+[Action]: Add queue, stack, traversal for tree, sorting, common bitwise
+
+================================================================================
 
 [Date]  : 2023.06.22
 [Auth]  : handsomebomb
-[File]  : "LinkedList.c"
+[File]  : [LinkedList.c]
 [Action]: Add LinkedList.c
 
-========================================
+================================================================================
