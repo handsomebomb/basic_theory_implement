@@ -1,5 +1,11 @@
 ================================================================================
 
+[Date]  : 2024.08.19
+[Auth]  : handsomebomb
+[File]  : [650_2_Keys_Keyboards.c]
+[Action]: Add leetcode medium c file, 650. 2 Keys Keyboards
+================================================================================
+
 [Date]  : 2024.08.06
 [Auth]  : handsomebomb
 [File]  : [2_Add_Two_Numbers.c] ~ [2976_Minimum_Cost_to_Convert_String_I.c]
